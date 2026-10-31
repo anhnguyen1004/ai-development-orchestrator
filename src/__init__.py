@@ -1,1 +1,1 @@
-"""Upwork Tools package."""
+"""AI Development Orchestrator package."""
